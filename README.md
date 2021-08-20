@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/W6dIxdifzUO92lRfu4/giphy.gif" width="40px" height="40px">, I'm Tobias</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate software developer from Argentina</h3>
 <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="425px" align="left">
 
 <h3 align="left">Connect with me:</h3>
