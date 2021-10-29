@@ -1,4 +1,7 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/W6dIxdifzUO92lRfu4/giphy.gif" width="40px" height="40px">, I'm Tobias</h1>
+
+![header](https://capsule-render.vercel.app/api?text=Hi%20I'm%20Tobias&animation=fadeIn&color=gradient&fontColor=fff&type=waving)
+
+
 <h3 align="center">A passionate software developer from Argentina</h3>
 <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="425px" align="left">
 
@@ -18,3 +21,7 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiimdp12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tobiimdp12&show_icons=true&theme=radical)
