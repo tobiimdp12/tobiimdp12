@@ -1,8 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?text=Hi%20I'm%20Tobias&animation=fadeIn&color=gradient&fontColor=fff&type=waving)
 
+![header](https://capsule-render.vercel.app/api?text=A%20passionate%20software%20developer%20from%20Argentina&animation=fadeIn&color=gradient&fontSize=24&fontColor=fff&type=transparent)
 
-<h3 align="center">A passionate software developer from Argentina</h3>
+
 <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="425px" align="left">
 
 <h3 align="left">Connect with me:</h3>
