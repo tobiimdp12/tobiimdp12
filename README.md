@@ -22,6 +22,8 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
+![Snake animation](https://raw.githubusercontent.com/fernandobandeira/fernandobandeira/output/github-snake-dark.svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobiimdp12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
